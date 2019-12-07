@@ -1,0 +1,7 @@
+C:\Users\Chris\Desktop\TeamService\TeamService\bin\TeamService.dll.config
+C:\Users\Chris\Desktop\TeamService\TeamService\bin\TeamService.dll
+C:\Users\Chris\Desktop\TeamService\TeamService\bin\TeamService.pdb
+C:\Users\Chris\Desktop\TeamService\TeamService\obj\Debug\TeamService.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\TeamService\TeamService\obj\Debug\TeamService.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\TeamService\TeamService\obj\Debug\TeamService.dll
+C:\Users\Chris\Desktop\TeamService\TeamService\obj\Debug\TeamService.pdb
